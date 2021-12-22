@@ -1,0 +1,42 @@
+[
+  {
+    "Time": 1635282000,
+    "Temprature": 13,
+    "Humidity": 35,
+    "Rain": 10,
+    "Wind": 2,
+    "Battery level": 0
+  },
+  {
+    "Time": 1635285600,
+    "Temprature": 14,
+    "Humidity": 30,
+    "Rain": 8,
+    "Wind": 2,
+    "Battery level": 20
+  },
+  {
+    "Time": 1635289200,
+    "Temprature": 15,
+    "Humidity": 25,
+    "Rain": 6,
+    "Wind": 2,
+    "Battery level": 40
+  },
+  {
+    "Time": 1635292800,
+    "Temprature": 16,
+    "Humidity": 20,
+    "Rain": 4,
+    "Wind": 2,
+    "Battery level": 60
+  },
+  {
+    "Time": 1635296400,
+    "Temprature": 17,
+    "Humidity": 15,
+    "Rain": 2,
+    "Wind": 2,
+    "Battery level": 80
+  }
+]
